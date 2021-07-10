@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+h1 {
+    color: brown;
+}
+
+.friend {
+    background-color: darkcyan;
+    padding: 25px 50px;
+    margin: 50px;
+}
+
+.friend > h3 {
+    text-transform: uppercase;
+}
